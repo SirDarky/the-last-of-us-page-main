@@ -1,6 +1,8 @@
 # Página The Last Of Us
 
 Criação de uma landing page de The Last Of Us
+![Foto da landing page](/imgs/front-img.png)
+
 
 ## 🚀 Começando
 
