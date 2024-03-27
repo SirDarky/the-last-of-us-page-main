@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/the-last-of-us-page-main/static/css/main.a3d84a43.css",
+    "main.js": "/the-last-of-us-page-main/static/js/main.51cbe3ff.js",
+    "static/media/joel.png": "/the-last-of-us-page-main/static/media/joel.e11fbe5176104584b994.png",
+    "static/media/ellie.png": "/the-last-of-us-page-main/static/media/ellie.dc5088c4922f127c0cd7.png",
+    "static/media/header-image.jpg": "/the-last-of-us-page-main/static/media/header-image.29812953b329ab828876.jpg",
+    "static/media/interpreter3.png": "/the-last-of-us-page-main/static/media/interpreter3.03dcbe90599cf0dcfebc.png",
+    "static/media/interpreter2.png": "/the-last-of-us-page-main/static/media/interpreter2.5c018bf9a907f017f258.png",
+    "static/media/naughty-dog-logo.png": "/the-last-of-us-page-main/static/media/naughty-dog-logo.d80111dcc4bd3171ad91.png",
+    "static/media/interpreter5.png": "/the-last-of-us-page-main/static/media/interpreter5.bcd9d9a704cd50ae0bb0.png",
+    "static/media/interpreter4.png": "/the-last-of-us-page-main/static/media/interpreter4.98aba2158f04337f2485.png",
+    "static/media/interpreter6.png": "/the-last-of-us-page-main/static/media/interpreter6.fab69329031a780333c5.png",
+    "static/media/sony-icons.png": "/the-last-of-us-page-main/static/media/sony-icons.abfe8ad28789371c85a1.png",
+    "static/media/interpreter1.png": "/the-last-of-us-page-main/static/media/interpreter1.023cdbb9411d5a25b374.png",
+    "index.html": "/the-last-of-us-page-main/index.html",
+    "main.a3d84a43.css.map": "/the-last-of-us-page-main/static/css/main.a3d84a43.css.map",
+    "main.51cbe3ff.js.map": "/the-last-of-us-page-main/static/js/main.51cbe3ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3d84a43.css",
+    "static/js/main.51cbe3ff.js"
+  ]
+}
